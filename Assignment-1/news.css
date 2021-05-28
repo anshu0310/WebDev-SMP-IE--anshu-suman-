@@ -1,0 +1,36 @@
+h1 { 
+    color:blue;
+    
+    background:yellow;
+
+}
+.sign-up form
+{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(red, green, blue, alpha);
+    background: rosybrown;
+    padding: 20px;
+    margin:8% auto 0;
+    text-align: center;
+}
+h2 {
+    color:saddlebrown;
+    background: seashell;
+    padding: 20px;
+
+}
+h3{
+    width: 50cm;
+    color: teal;
+    background-origin: padding-box;
+}
+h4{
+    size: 0vmin;
+    color:tomato;
+    background-size: 0ex;
+}
+.sign-up form h1
+{
+    color: royalblue;
+    margin-bottom: 30px;
+}
